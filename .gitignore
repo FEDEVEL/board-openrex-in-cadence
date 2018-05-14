@@ -1,0 +1,10 @@
+#ignore root files and root directories, ignore everything
+/*
+/*/
+
+#Always enable
+!.gitignore
+!/**/*.brd
+
+#Always disable
+/**/AUTOSAVE*
